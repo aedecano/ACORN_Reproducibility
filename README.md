@@ -191,7 +191,7 @@ Software and tools used, with version numbers.
 # References
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. doi:10.1038/sdata.2016.18
 
-National Library of Medicine. (2021). Bioinformatics Data Repositories. Retrieved from https://www.nlm.nih.gov/bsd/biotech_bioinfo.html
+Eric W Sayers, Evan E Bolton, J Rodney Brister, Kathi Canese, Jessica Chan, Donald C Comeau, Catherine M Farrell, Michael Feldgarden, Anna M Fine, Kathryn Funk, Eneida Hatcher, Sivakumar Kannan, Christopher Kelly, Sunghwan Kim, William Klimke, Melissa J Landrum, Stacy Lathrop, Zhiyong Lu, Thomas L Madden, Adriana Malheiro, Aron Marchler-Bauer, Terence D Murphy, Lon Phan, Shashikant Pujar, Sanjida H Rangwala, Valerie A Schneider, Tony Tse, Jiyao Wang, Jian Ye, Barton W Trawick, Kim D Pruitt, Stephen T Sherry, Database resources of the National Center for Biotechnology Information in 2023, Nucleic Acids Research, Volume 51, Issue D1, 6 January 2023, Pages D29–D38, https://doi.org/10.1093/nar/gkac1032
 
 Anaconda, Inc. (2021). Conda Documentation. Retrieved from https://docs.conda.io/projects/conda/en/latest/index.html
 
