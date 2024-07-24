@@ -184,8 +184,11 @@ CMD ["python3", "analysis_script.py"]
 Ensure that your publication includes a detailed methods section describing:
 
 Data collection.
+
 Data processing.
+
 Statistical analysis.
+
 Software and tools used, with version numbers.
 
 # References
