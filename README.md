@@ -190,6 +190,7 @@ Software and tools used, with version numbers.
 
 # Additional Resources
 Conda Documentation: https://docs.conda.io/en/latest/
+
 Docker Documentation: https://docs.docker.com/
 
 
