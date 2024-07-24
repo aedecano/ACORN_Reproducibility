@@ -58,7 +58,7 @@ Contact information for further inquiries.
 Select a repository that suits your data type and ensures long-term accessibility. Consider repositories like:
 
 - **NCBI Sequence Read Archive (SRA):** For raw sequence data.
-  https://github.com/aedecano/ACORN_Reproducibility/blob/main/README.md
+  https://www.ncbi.nlm.nih.gov/sra
 - **Gene Expression Omnibus (GEO):** For gene expression data.
   https://www.ncbi.nlm.nih.gov/gds
 - **Figshare:** For a wide variety of data types.
