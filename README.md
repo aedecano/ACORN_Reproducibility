@@ -121,7 +121,7 @@ Using a Conda environment ensures that all dependencies and software versions ar
 Step-by-Step Guide to Creating a Conda Environment:
 
 1. Install Miniconda or Anaconda:
-Follow the installation instructions from the official Conda documentation.
+Follow the installation instructions from the official Conda documentation: https://docs.conda.io/en/latest/
 
 2. Create a New Environment:
 ```
@@ -187,12 +187,6 @@ Data collection.
 Data processing.
 Statistical analysis.
 Software and tools used, with version numbers.
-
-# Additional Resources
-Conda Documentation: https://docs.conda.io/en/latest/
-
-Docker Documentation: https://docs.docker.com/
-
 
 # References
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. doi:10.1038/sdata.2016.18
