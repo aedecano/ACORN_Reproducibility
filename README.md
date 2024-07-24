@@ -196,8 +196,11 @@ Docker Documentation: https://docs.docker.com/
 
 # References
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. doi:10.1038/sdata.2016.18
+
 National Library of Medicine. (2021). Bioinformatics Data Repositories. Retrieved from https://www.nlm.nih.gov/bsd/biotech_bioinfo.html
+
 Anaconda, Inc. (2021). Conda Documentation. Retrieved from https://docs.conda.io/projects/conda/en/latest/index.html
+
 Docker, Inc. (2021). Docker Documentation. Retrieved from https://docs.docker.com/get-started/
 
 
