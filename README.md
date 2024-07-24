@@ -13,18 +13,24 @@ Bioinformatics is a field that heavily relies on the availability of data and co
 - **Metadata:** Provide detailed metadata including sample information, experimental conditions, and data processing steps.
 
 **Example Directory Structure:**
-
+```
 /project-directory
+
 /raw-data
+
 sample1.fastq
 sample2.fastq
+
 /processed-data
+
 sample1_aligned.bam
 sample2_aligned.bam
+
 /metadata
+
 samples_metadata.csv
 processing_protocol.md
-
+```
 
 ### 1.2 Data Documentation
 
