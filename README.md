@@ -38,7 +38,7 @@ processing_protocol.md
 - **Protocol Documentation:** Include detailed protocols for data generation and processing in a markdown file or PDF.
 
 **Example Readme File:**
-
+```
 Project Title
 Description
 Brief description of the project.
@@ -51,7 +51,7 @@ Instructions on how to access and use the data.
 
 Contact
 Contact information for further inquiries.
-
+```
 
 ## Step 2: Choosing a Data Repository
 
@@ -69,7 +69,7 @@ Select a repository that suits your data type and ensures long-term accessibilit
 Compress large files to reduce upload time and storage space. Use standard compression formats like `.gz` or `.zip`.
 
 **Example Compression Command:**
-```bash
+```
 gzip sample1.fastq
 ```
 
@@ -84,9 +84,9 @@ Upload your files.
 Ensure that your dataset receives a Digital Object Identifier (DOI) for easy citation.
 
 Example Data Citation:
-
+```
 Author(s). (Year). Title of dataset (Version) [Data set]. Repository Name. DOI
-
+```
 ## Step 4: Making Your Research Reproducible
 
 ### 4.1 Sharing Analysis Scripts
@@ -95,14 +95,21 @@ Provide all scripts and tools used for data analysis. Use version control system
 GitHub: Host code repositories with version control.
 Bitbucket: Another platform for version control and collaboration.
 Example GitHub Repository Structure:
-
+```
 /project-directory
+
     /data
+
     /scripts
+
         analysis_script.R
+
         plotting_script.py
+
     /results
+
     README.md
+```
 
 ### 4.2 Setting Up a Conda Environment
 Using a Conda environment ensures that all dependencies and software versions are consistent across different systems.
@@ -113,23 +120,24 @@ Step-by-Step Guide to Creating a Conda Environment:
 Follow the installation instructions from the official Conda documentation.
 
 2. Create a New Environment:
-
+```
 conda create --name myenv python=3.8
-
+```
 3. Activate the Environment:
-
+```
 conda activate myenv
-
+```
 4. Install Required Packages:
-
+```
 conda install numpy pandas scipy
 conda install -c bioconda biopython
-
+```
 5. Export Environment for Reproducibility:
+```   
 conda env export > environment.yml
-
+```
 Example environment.yml File:
-
+```
 name: myenv
 channels:
   - bioconda
@@ -140,11 +148,11 @@ dependencies:
   - pandas=1.1.3
   - scipy=1.5.2
   - biopython=1.78
-
+```
 Others can recreate this environment using:
-
+```
 conda env create -f environment.yml
-
+```
 ### 4.3 Containerization
 Use containerization tools like Docker to ensure that your computational environment can be reproduced.
 
