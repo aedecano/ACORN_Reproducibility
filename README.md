@@ -65,14 +65,16 @@ Compress large files to reduce upload time and storage space. Use standard compr
 **Example Compression Command:**
 ```bash
 gzip sample1.fastq
+```
 
-3.2 Submitting Data to a Repository
+### 3.2 Submitting Data to a Repository
 Follow the submission guidelines of your chosen repository. Generally, you will need to:
 
 Create an account.
 Prepare a data submission form with metadata and project description.
 Upload your files.
-3.3 Obtaining a DOI
+
+### 3.3 Obtaining a DOI
 Ensure that your dataset receives a Digital Object Identifier (DOI) for easy citation.
 
 Example Data Citation:
@@ -141,7 +143,7 @@ conda env create -f environment.yml
 Use containerization tools like Docker to ensure that your computational environment can be reproduced.
 
 Example Dockerfile:
-
+```
 FROM ubuntu:20.04
 
 # Install necessary packages
@@ -158,8 +160,9 @@ WORKDIR /scripts
 
 # Run the analysis script
 CMD ["python3", "analysis_script.py"]
+```
 
-Step 5: Providing Detailed Methods and Protocols
+## Step 5: Providing Detailed Methods and Protocols
 Ensure that your publication includes a detailed methods section describing:
 
 Data collection.
@@ -167,12 +170,12 @@ Data processing.
 Statistical analysis.
 Software and tools used, with version numbers.
 
-Additional Resources
+# Additional Resources
 Conda Documentation: https://docs.conda.io/en/latest/
 Docker Documentation: https://docs.docker.com/
 
 
-References
+# References
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. doi:10.1038/sdata.2016.18
 National Library of Medicine. (2021). Bioinformatics Data Repositories. Retrieved from https://www.nlm.nih.gov/bsd/biotech_bioinfo.html
 Anaconda, Inc. (2021). Conda Documentation. Retrieved from https://docs.conda.io/projects/conda/en/latest/index.html
