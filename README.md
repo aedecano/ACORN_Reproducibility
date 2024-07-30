@@ -115,6 +115,8 @@ Example GitHub Repository Structure:
     README.md
 ```
 
+Github tutorial: https://srse-git-github-zero2hero.netlify.app/00-intro-to-version-control/04a-anatomy-repo/
+
 ### 4.2 Setting Up a Conda Environment
 Using a Conda environment ensures that all dependencies and software versions are consistent across different systems.
 
