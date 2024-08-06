@@ -85,8 +85,8 @@ Prepare a data submission form with metadata and project description.
 Upload your files.
 
 ### 3.3 Obtaining a DOI
-Ensure that your dataset receives a Digital Object Identifier (DOI) for easy citation.
-Register through https://www.doi.org/
+Ensure that your dataset receives a Digital Object Identifier (DOI) for easy citation: https://www.doi.org/
+Create a DOI: https://open.win.ox.ac.uk/pages/open-science/community/Open-WIN-Community/docs/gitlab/4-2-you-doi/
 
 Example Data Citation:
 ```
