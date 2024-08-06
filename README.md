@@ -86,6 +86,7 @@ Upload your files.
 
 ### 3.3 Obtaining a DOI
 Ensure that your dataset receives a Digital Object Identifier (DOI) for easy citation.
+Register through https://www.doi.org/
 
 Example Data Citation:
 ```
