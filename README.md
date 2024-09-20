@@ -16,20 +16,20 @@ Genomics is a field that heavily relies on the availability of data and computat
 ```
 /project-directory
 
-/raw-data
+  /raw-data
 
-sample1.fastq
-sample2.fastq
+  sample1.fastq
+  sample2.fastq
 
-/processed-data
+  /processed-data
 
-sample1_aligned.bam
-sample2_aligned.bam
+  sample1_aligned.bam
+  sample2_aligned.bam
 
-/metadata
+  /metadata
 
-samples_metadata.csv
-processing_protocol.md
+  samples_metadata.csv
+  processing_protocol.md
 ```
 
 ### 1.2 Data Documentation
