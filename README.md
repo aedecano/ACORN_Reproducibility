@@ -99,8 +99,11 @@ Author(s). (Year). Title of dataset (Version) [Data set]. Repository Name. DOI
 Provide all scripts and tools used for data analysis. Use version control systems like Git to track changes.
 
 GitHub: Host code repositories with version control.
+
 Bitbucket: Another platform for version control and collaboration.
+
 Example GitHub Repository Structure:
+
 ```
 /project-directory
 
