@@ -1,8 +1,8 @@
-# Tutorial: Data Publication and Promoting Reproducibility in Bioinformatics Research
+# Tutorial: Data Publication and Promoting Reproducibility in Genomic Research
 
 ## Introduction
 
-Bioinformatics is a field that heavily relies on the availability of data and computational methods. Reproducibility ensures that research findings can be consistently replicated by others using the same data and methods. This tutorial will guide you through the process of data publication and promote reproducibility in bioinformatics research.
+Genomics is a field that heavily relies on the availability of data and computational methods. Reproducibility ensures that research findings can be consistently replicated by others using the same data and methods. This tutorial will guide you through the process of data publication and promote reproducibility in bioinformatics research.
 
 ## Step 1: Preparing Your Data for Publication
 
